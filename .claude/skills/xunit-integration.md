@@ -4,6 +4,7 @@
 - One test class per controller or feature area
 - Tests must be able to fail — assert real outcomes, not just status codes or non-null values
 - Each test asserts only what it's specifically testing — don't duplicate assertions from other tests
+- Treat `Assert.NotNull` on data fields as a seeded data gap — replace with `Assert.Equal` using known values from seed data or test constants. The only valid use of `Assert.NotNull` is as a guard before drilling into properties (e.g., `Assert.NotNull(response)` before checking `response.Name`)
 - Write descriptive test names using the pattern `MethodUnderTest_Scenario_ExpectedResult`
 - Always use `async Task` for test methods — never sync
 - Use raw xUnit `Assert` — do not introduce FluentAssertions unless already present in the project
