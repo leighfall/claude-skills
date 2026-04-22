@@ -8,7 +8,7 @@
 # Commands
 - [/next-test](commands/next-test.md) — create the next test in the plan
 - [/heal-tests](commands/heal-tests.md) — fix failing, broken, or flaky tests
-- [/review-pr](commands/review-pr.md) — trigger code-review-skill on current diff
+- [/code-review](commands/code-review.md) — trigger code-review-skill on current diff
 - [/decompose](commands/decompose.md) — scope → epics → stories → tasks + estimates
 - [/estimate](commands/estimate.md) — estimate a single described task
 

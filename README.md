@@ -10,7 +10,7 @@ Personal Claude Code configuration — rules, commands, and skills that travel w
 ├── commands/                          # Slash commands
 │   ├── next-test.md                   # Write the next test for a class or controller
 │   ├── heal-tests.md                  # Fix failing, broken, or flaky tests
-│   ├── review-pr.md                   # Run code review on current diff
+│   ├── code-review.md                 # Run code review on current diff
 │   ├── decompose.md                   # Break scope into epics, stories, tasks + estimates
 │   └── estimate.md                    # Estimate a single described task
 ├── rules/                             # Always-available conventions
@@ -43,7 +43,7 @@ Commands are available as slash commands in Claude Code (e.g. `/next-test`, `/de
 | `skills/xunit-unit.md` | Done |
 | `rules/communication.md` | Done |
 | `commands/heal-tests.md` | Placeholder |
-| `commands/review-pr.md` | Placeholder |
+| `commands/code-review.md` | Placeholder |
 | `commands/decompose.md` | Placeholder |
 | `commands/estimate.md` | Placeholder |
 | `rules/testing.md` | Placeholder |
