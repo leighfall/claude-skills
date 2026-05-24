@@ -9,6 +9,7 @@
 - [/next-test](commands/next-test.md) — create the next test in the plan
 - [/heal-tests](commands/heal-tests.md) — fix failing, broken, or flaky tests
 - [/code-review](commands/code-review.md) — trigger code-review-skill on current diff
+- [/commit](commands/commit.md) — draft a conventional commit message for staged changes
 - [/decompose](commands/decompose.md) — scope → epics → stories → tasks + estimates
 - [/estimate](commands/estimate.md) — estimate a single described task
 
