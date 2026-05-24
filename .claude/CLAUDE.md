@@ -16,7 +16,8 @@
 - [estimation-decomposition](skills/estimation-decomposition/SKILL.md) — breakdown and estimation conventions
   - [estimation-rules.md](skills/estimation-decomposition/references/estimation-rules.md) — per-task hour estimate approach
   - [decomposition.md](skills/estimation-decomposition/references/decomposition.md) — breakdown conventions
-- [code-review-skill](skills/code-review-skill/) — awesome-skills/code-review-skill
+- [code-review-skill](skills/code-review-skill/review-checklist.md) — review checklist, severity labels, decision matrix
+  - [pr-github.md](skills/code-review-skill/pr-github.md) — GitHub PR fetch instructions
 - [playwright-skill](skills/playwright-skill/) — testdino-hq/playwright-skill
 - [vitest-skill](skills/vitest-skill/) — fastmcp vitest skill
 - [xunit-integration](skills/xunit-integration.md) — xUnit integration test conventions
