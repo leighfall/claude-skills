@@ -23,7 +23,7 @@ Personal Claude Code configuration — rules, commands, and skills that travel w
     ├── xunit-integration.md           # xUnit integration test patterns
     ├── xunit-unit.md                  # xUnit unit test patterns
     ├── estimation-decomposition/      # Breakdown and estimation conventions
-    ├── code-review-skill/             # Placeholder — awesome-skills/code-review-skill
+    ├── code-review-skill/             # Review checklist, severity labels, GitHub PR fetch
     ├── playwright-skill/              # Placeholder — testdino-hq/playwright-skill
     └── vitest-skill/                  # Placeholder — fastmcp vitest skill
 ```
@@ -43,7 +43,7 @@ Commands are available as slash commands in Claude Code (e.g. `/next-test`, `/de
 | `skills/xunit-unit.md` | Done |
 | `rules/communication.md` | Done |
 | `commands/heal-tests.md` | Placeholder |
-| `commands/code-review.md` | Placeholder |
+| `commands/code-review.md` | Done |
 | `commands/decompose.md` | Placeholder |
 | `commands/estimate.md` | Placeholder |
 | `rules/testing.md` | Placeholder |
@@ -51,6 +51,6 @@ Commands are available as slash commands in Claude Code (e.g. `/next-test`, `/de
 | `rules/dotnet.md` | Placeholder |
 | `rules/no-overengineering.md` | Placeholder |
 | `skills/estimation-decomposition/` | Placeholder |
-| `skills/code-review-skill/` | Pending external skill |
+| `skills/code-review-skill/` | Done |
 | `skills/playwright-skill/` | Pending external skill |
 | `skills/vitest-skill/` | Pending external skill |
