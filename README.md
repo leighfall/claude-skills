@@ -23,7 +23,7 @@ Personal Claude Code configuration — rules, commands, and skills that travel w
 └── skills/                            # Loaded on demand by commands
     ├── xunit-integration.md           # xUnit integration test patterns
     ├── xunit-unit.md                  # xUnit unit test patterns
-    ├── estimation-decomposition/      # Breakdown and estimation conventions
+    ├── estimation-decomposition/      # Skill multipliers, AI multipliers, epic/story/task structure
     ├── code-review-skill/             # Review checklist, severity labels, GitHub PR fetch
     ├── playwright-skill/              # Placeholder — testdino-hq/playwright-skill
     └── vitest-skill/                  # Placeholder — fastmcp vitest skill
@@ -46,13 +46,13 @@ Commands are available as slash commands in Claude Code (e.g. `/next-test`, `/de
 | `commands/heal-tests.md` | Placeholder |
 | `commands/code-review.md` | Done |
 | `commands/commit.md` | Done |
-| `commands/decompose.md` | Placeholder |
-| `commands/estimate.md` | Placeholder |
+| `commands/decompose.md` | Done |
+| `commands/estimate.md` | Done |
 | `rules/testing.md` | Placeholder |
 | `rules/vue.md` | Placeholder |
 | `rules/dotnet.md` | Placeholder |
 | `rules/no-overengineering.md` | Placeholder |
-| `skills/estimation-decomposition/` | Placeholder |
+| `skills/estimation-decomposition/` | Done |
 | `skills/code-review-skill/` | Done |
 | `skills/playwright-skill/` | Pending external skill |
 | `skills/vitest-skill/` | Pending external skill |

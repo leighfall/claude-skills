@@ -15,8 +15,11 @@
 
 # Skills
 - [estimation-decomposition](skills/estimation-decomposition/SKILL.md) — breakdown and estimation conventions
-  - [estimation-rules.md](skills/estimation-decomposition/references/estimation-rules.md) — per-task hour estimate approach
-  - [decomposition.md](skills/estimation-decomposition/references/decomposition.md) — breakdown conventions
+  - [estimation-rules.md](skills/estimation-decomposition/references/estimation-rules.md) — skill multipliers, AI multipliers, anchoring logic
+  - [decomposition.md](skills/estimation-decomposition/references/decomposition.md) — epic/story/task structure, sizing defaults
+  - [calibration-template.md](skills/estimation-decomposition/references/calibration-template.md) — template for `calibration.md` in private repo
+  - [profile-template.md](skills/estimation-decomposition/references/profile-template.md) — template for `profile.md` in private repo
+  - [metrics-template.md](skills/estimation-decomposition/references/metrics-template.md) — template for `metrics.md` in private repo
 - [code-review-skill](skills/code-review-skill/review-checklist.md) — review checklist, severity labels, decision matrix
   - [pr-github.md](skills/code-review-skill/pr-github.md) — GitHub PR fetch instructions
 - [playwright-skill](skills/playwright-skill/) — testdino-hq/playwright-skill
