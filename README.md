@@ -24,7 +24,7 @@ Personal Claude Code configuration — rules, commands, and skills that travel w
     ├── xunit-unit.md                  # xUnit unit test patterns
     ├── estimation-decomposition/      # Breakdown and estimation conventions
     ├── code-review-skill/             # Placeholder — awesome-skills/code-review-skill
-    ├── playwright-skill/              # Placeholder — testdino-hq/playwright-skill
+    ├── playwright-skill/              # testdino-hq/playwright-skill (full install)
     └── vitest-skill/                  # Placeholder — fastmcp vitest skill
 ```
 
@@ -52,5 +52,5 @@ Commands are available as slash commands in Claude Code (e.g. `/next-test`, `/de
 | `rules/no-overengineering.md` | Placeholder |
 | `skills/estimation-decomposition/` | Placeholder |
 | `skills/code-review-skill/` | Pending external skill |
-| `skills/playwright-skill/` | Pending external skill |
+| `skills/playwright-skill/` | Done (testdino-hq/playwright-skill) |
 | `skills/vitest-skill/` | Pending external skill |
